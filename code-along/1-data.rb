@@ -23,7 +23,17 @@
 food = "tacos" 
 puts food
 
-# Combine strings and variables
+x = 5
+y = 3
+x = 10
+y = 40
+puts x + y
 
+# Combine strings and variables
+puts "#{x} tacos"
+puts "#{x + y} tacos"
 
 # String manipulation
+puts "Hello" . length
+puts "How are you today?" .upcase
+puts "computers are hard".reverse

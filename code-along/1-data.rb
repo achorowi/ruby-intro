@@ -5,15 +5,25 @@
 # In Ruby, there are different *types* of data:
 
 # Numbers
+# puts 5, 3
 
 # Perform simple math with numbers
+# puts 5*3
+# puts 5.0/3.0
 
 # Strings
+# puts "Hello, world!"
 
 # Combine strings together
+# puts "Tacos are awesome"
+# puts "tacos" * 3
+# puts "tacos" + 3.to_s
 
 # Variables
+food = "tacos" 
+puts food
 
 # Combine strings and variables
+
 
 # String manipulation
